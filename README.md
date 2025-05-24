@@ -1,6 +1,6 @@
-﻿# Simple-gRPC-Server
+# Simple-gRPC-Server
 
- you can run this by
-01- go run server/main.go
-02- go run client/main.go
+You can run this by:
 
+1. `go run server/main.go`  
+2. `go run client/main.go`
